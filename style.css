@@ -10,7 +10,6 @@
 
 
 @media (max-width:570px) {
-
   body {
     background: #1D2B64;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);  /* Chrome 10-25, Safari 5.1-6 */
