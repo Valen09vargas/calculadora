@@ -31,13 +31,7 @@ function potencia() {
   var num2 = parseFloat(document.getElementById('num2').value);
   var resultado = num1 / num2;
   document.getElementById('resultado').innerText = resultado;
-}
-
-{
   
-  // Ingresa aquí tu código.
-  // Ingresa aquí tu código. ¡¡¡Pista!!!, así se realiza la potencia: Math.pow(num1, num2);
-  document.getElementById('resultado').innerText = resultado;
 }
 
 
